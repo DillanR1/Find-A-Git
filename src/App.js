@@ -25,9 +25,7 @@ class App extends Component {
         <div className="container">
           <Users loading={this.state.loading} users={this.state.users} />
         </div>
-      
       </div>
-
     );
   }
 }

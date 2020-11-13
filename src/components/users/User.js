@@ -6,12 +6,14 @@ import { Link } from "react-router-dom";
 export class User extends Component {
   componentDidMount() {
     this.props.getUser(this.props.match.params.login);
+    this.props.getRepos(this.props.match.params.login);
   }
 
   static propTypes = {
     loading: PropTypes.bool,
     user: PropTypes.object.isRequired,
     getUser: PropTypes.func.isRequired,
+    getRepos: PropTypes.func.isRequired,
   };
 
   render() {

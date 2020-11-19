@@ -29,7 +29,7 @@ a:hover {
   color: #666;
 }
 
-h1{
+.app-name{
   color: var(--light-color);
 }
 

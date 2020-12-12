@@ -6,7 +6,7 @@ Find-A-Git is a github user search tool that uses Axios and the github API.
 # Deployed App Link
 Be sure to read the instructions first, but if you'd rather dive in that's cool too!
 
-        https://find-a-git.netlify.app/
+   https://find-a-git.netlify.app/
 
 
 # Instructions 

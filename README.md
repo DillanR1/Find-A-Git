@@ -3,6 +3,11 @@ Git hub finder app built from the Traversy Media Udemy Course "React Front to Ba
 
 Find-A-Git is a github user search tool that uses Axios and the github API.
 
+# Deployed App Link
+be sure to read the instructions first, but if you'd rather dive in that's cool too!
+
+****https://find-a-git.netlify.app/
+
 # Instructions 
 To use Find-A-git, simply type the username or the name of the user you would like to find. If you have a github account, try to find your own profile.
 If not, no worries! Search for DillanR1, and then try searching dillan. Compare the results between the two search methods.

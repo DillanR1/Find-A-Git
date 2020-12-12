@@ -4,15 +4,18 @@ Git hub finder app built from the Traversy Media Udemy Course "React Front to Ba
 Find-A-Git is a github user search tool that uses Axios and the github API.
 
 # Deployed App Link
-be sure to read the instructions first, but if you'd rather dive in that's cool too!
+Be sure to read the instructions first, but if you'd rather dive in that's cool too!
 
-****https://find-a-git.netlify.app/
+        https://find-a-git.netlify.app/
+
 
 # Instructions 
 To use Find-A-git, simply type the username or the name of the user you would like to find. If you have a github account, try to find your own profile.
 If not, no worries! Search for DillanR1, and then try searching dillan. Compare the results between the two search methods.
 
+
 # Why this project is awesome | Implementation | Methodology 
+
 
 Building Find-A-Git was a very necessary exercise, as it highlights several important tools that developers can implement to write cleaner code in React.
 
@@ -32,10 +35,14 @@ I did find an interesting article on flux patterns provided by freeCodeCamp.
 
 LINK: https://www.freecodecamp.org/news/an-introduction-to-the-flux-architectural-pattern-674ea74775c9/
 
+
+
 APP.JS was refactored to use Async await on component did mount. This makes error handling easier, cleans up the code, and also allows other functions of the App to load while
 awaiting the promise to be fulfilled. This is my current level of understanding with Async/Await in a nut shell, with excellent examples being provided by MDN. 
 
 LINK: https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Async_await
+
+
 
 # Github API
 There are a couple of interesting things to note about the github API.
